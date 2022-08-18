@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @EarthStrixDEV
 - 👀 I’m interested in Computer,Programming 
 - 💻 I'm want to be Software Developer
-- 🌱 I’m currently learning Software and Game Devolopment ,Python JavaScript C/C++/C# and Java Programming  
+- 🌱 I’m currently learning Programming ,Building a Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
