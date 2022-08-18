@@ -1,18 +1,19 @@
-# I'm EarthStrix
+# I'm EarthStrix 🤖🐶👨‍💻
 - 👋 Hi, I’m @EarthStrixDEV
 - 👀 I’m interested in Computer,Programming 
+- 💻 I'm want to be Software Developer
 - 🌱 I’m currently learning Software and Game Devolopment ,Python JavaScript C/C++/C# and Java Programming  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 ### Programming Language | Technology
-> Programming Language
+> 💻Programming Language
 - Python
 - Java
 - JavaScript
 - C++
 - SQL
-> Web Technology
+> 📱Web Technology
 - HTML 
 - CSS
 - JavaScript
