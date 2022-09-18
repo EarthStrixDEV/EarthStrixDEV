@@ -12,12 +12,14 @@
 - Java
 - JavaScript
 - C++
+- C#
 - SQL
 > 📱Web Technology
 - HTML 
 - CSS
 - JavaScript
-- Node JS
+- ReactJS
+- NodeJS
 - MongoDB
 - MySQL
 
