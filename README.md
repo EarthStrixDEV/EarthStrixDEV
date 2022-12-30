@@ -18,7 +18,7 @@
 > 📱Web Technology
 - HTML 
 - CSS
-- JavaScript
+- Vanilla JS
 - ReactJS
 - NodeJS
 - MongoDB
