@@ -11,6 +11,7 @@
 - Python
 - Java
 - JavaScript
+- TypeScript
 - C++
 - C#
 - SQL
