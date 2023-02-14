@@ -21,6 +21,7 @@
 - Vanilla JS
 - ReactJS
 - NodeJS
+- Express JS
 - MongoDB
 - MySQL
 
