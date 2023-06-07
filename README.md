@@ -1,5 +1,5 @@
 # I'm EarthStrix 🤖🐶👨‍💻
-- 👋 Hi, I’m @EarthStrixDEV
+- 👋 Hi, I’m @EarthStrix
 - 👀 I’m interested in Computer Technologies ,Programming ,Software Engineering ,Game Development 
 - 💻 I'm want to be Software Developer ,Software Enginner ,Game Developer
 - 🌱 I’m currently learning Programming Languages ,Web Technologies ,Tools and Frameworks
