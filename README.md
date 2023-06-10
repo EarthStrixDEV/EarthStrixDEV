@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Programming Languages ,Web Technologies ,Tools and Frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 👨‍🎓 I studying Computer Engineering Major (Software Development Program)
 
 ### Programming Language | Technology
 > 💻Programming Language
@@ -19,6 +20,8 @@
 > 📱Web Technology
 - HTML 
 - CSS
+- TailwindCSS
+- Bootstrap
 - Vanilla JS
 - ReactJS
 - NodeJS
