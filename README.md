@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer / Developer / Computer Engineering Student
 -----------------------------------------------------
 
-👀 I’m interested in Computer Science ,Programming ,Software Engineering 👨‍🎓 I studying Computer Engineering Major (Software Development Program)
+👀 I’m interested in Computer Science ,Programming ,Software Engineering 👨‍🎓 I studying Computer Engineering Major (Software Development Study Field)
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [warapon.jitsook@gmail.com](mailto:warapon.jitsook@gmail.com)
