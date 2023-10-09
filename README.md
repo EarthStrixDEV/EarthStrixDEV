@@ -9,7 +9,7 @@ Programmer / Developer / Computer Engineering Student
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [warapon.jitsook@gmail.com](mailto:warapon.jitsook@gmail.com)
 * 🧠  I'm learning Programming Languages ,Web Technologies ,Tools and Frameworks ,Computer Science
-* 🤝  I'm open to collaborating on Web Full Stack Development ,Mobile Development ,Another Software Application
+* 🤝  I'm open to collaborating on Web Full Stack Development ,Another Implement Computer Science
 
 ### Skills
 
