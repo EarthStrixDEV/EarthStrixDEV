@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is EarthStrix 🤖🐶👨‍💻
 ==================================================================================================================================
 
-Programmer / Developer / Computer Engineering Student
+Programmer / Full Stack Web Developer / Computer Engineering Student
 -----------------------------------------------------
 
 👀 I’m interested in Programming ,Web Development 👨‍🎓 I studying Computer Engineering Major (Software Development Study Field)
