@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer / Developer / Computer Engineering Student
 -----------------------------------------------------
 
-👀 I’m interested in Computer Science ,Programming ,Software Engineering 👨‍🎓 I studying Computer Engineering Major (Software Development Study Field)
+👀 I’m interested in Programming ,Web Development 👨‍🎓 I studying Computer Engineering Major (Software Development Study Field)
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [warapon.jitsook@gmail.com](mailto:warapon.jitsook@gmail.com)
-* 🧠  I'm learning Programming Languages ,Web Technologies ,Tools and Frameworks ,Computer Science
-* 🤝  I'm open to collaborating on Web Full Stack Development ,Another Implement Computer Science
+* 🧠  I'm learning Programming Languages ,Web Technologies ,Tools and Frameworks
+* 🤝  I'm open to collaborating on Full Stack Web Application Development
 
 ### Skills
 
