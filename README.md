@@ -2,14 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 Programmer / Full Stack Web Developer / Computer Engineering Student
------------------------------------------------------
+--------------------------------------------------------------------
 
-👀 I’m interested in Programming ,Web Development 👨‍🎓 I studying Computer Engineering Major (Software Development Study Field)
+👀 I’m interested in Programming ,Web Development ,Game Development 👨‍🎓 I studying Computer Engineering Major (Software Development Minor)
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [warapon.jitsook@gmail.com](mailto:warapon.jitsook@gmail.com)
 * 🧠  I'm learning Programming Languages ,Web Technologies ,Tools and Frameworks
-* 🤝  I'm open to collaborating on Full Stack Web Application Development
+* 🤝  I'm open to collaborating on Full Stack Development ,Game Development base on Unity Engine
 
 ### Skills
 
