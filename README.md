@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=earthstrixdev" alt="earthstrixdev" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Web Application**
+- 🔭 I’m currently working on **Full Stack Developer**
 
 - 🌱 I’m currently learning **Javascript, Typescript, .NET Techonology, C#, NodeJS ,ReactJS ,Unity**
 
