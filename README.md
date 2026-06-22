@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EarthStrix 👽 (Nickname 👉 Earth)</h1>
+<h1 align="center">Hi 👋, I'm EarthStrix 👽</h1>
 <h3 align="center">A Programmer / Software Developer who favor programming and explore every techonologies in the world👨‍💻💻🛠🎮</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=earthstrixdev" alt="earthstrixdev" /></a> </p>
